@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: green;
+  font-size: 40px;
+}
+.Weatherdot {
+  text-decoration: none;
+  color: green;
+  list-style: none;
+  text-align: center;
+}
+.SearchInput {
+  padding: 20px 50px;
+  font-size: 25px;
+  border-radius: 10px;
+  border: 2px solid rgb(165, 165, 63);
+}
+.SearchSubmit {
+  padding: 20px 35px;
+  font-size: 25px;
+  font-weight: bolder;
+  border-radius: 10px;
+  margin-left: 10px;
+  border: 2px solid rgb(165, 165, 63);
+  background-color: rgb(143, 53, 227);
+  color: rgb(240, 240, 233);
+}
+.App footer {
+  font-size: 15px;
+}
+.App footer a {
+  color: rgb(143, 53, 227);
+  font-weight: bolder;
+}
